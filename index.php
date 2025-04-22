@@ -1,3 +1,4 @@
 <?php
-    echo "hola mundo";
+    //ejemplo
+    echo "Buenos dias estrellitas, la tierra les dice hola";
 ?>
